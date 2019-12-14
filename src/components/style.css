@@ -1,0 +1,43 @@
+.hero {
+    background-image: linear-gradient(to left,#1E90FF,#00BFFF);
+}
+
+.card {
+    background-color:papayawhip;
+    text-align: center;
+    /* background-image: url('./img/rain.jpg'); */
+    background-position: center;
+    background-size: cover;
+}
+
+.card h1, .card h2, .card h3{
+    color:#00008B;
+    font-weight: 700;
+}
+
+.card h1{
+    font-size: xx-large;
+}
+.card h2{
+    font-size: x-large;
+}
+.card h3{
+    font-size: large;
+}
+
+.card img{
+    margin-top: 10px;
+}
+
+
+.foot{
+    padding-top: 15px;
+    height: 60px;
+    background-color: grey;
+    color: lightslategrey;
+}
+.foot p{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: red;
+}
